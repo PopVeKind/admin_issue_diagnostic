@@ -1,6 +1,6 @@
 # A.I.D.
 ## Admin Issue Diagnostic
-AID collects environmentals and formats a YOURLS Issue Template to copy/paste. Just fill in the blanks!
+AID collects environmentals and formats a template to copy/paste into a YOURLS issue. Just fill in the blanks!
 _Fantastic for newbies, great for experts!_
 ## AID Plugin Install
 1. Download the AID Plugin

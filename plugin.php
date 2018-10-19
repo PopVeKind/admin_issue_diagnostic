@@ -3,7 +3,7 @@
 /*
 Plugin Name: A.I.D. - Admin Issue Diagnostic
 Plugin URI: https://github.com/PopVeKind/admin_issue_diagnostic
-Description: AID collects environmentals and formats a template to copy/paste into issues. Fantastic for newbies, great for experts!
+Description: AID collects environmentals and formats a template to copy/paste into a YOURLS issue. Fantastic for newbies, great for experts!
 Version: 1.0
 Author: Pop VeKind
 Author URI: https://vekind.org/about-vekind/pop-vekind/
